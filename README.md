@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi there! I'm Horeb, a Data Scientist with a passion for diving into the intricacies of data and aspiring to transition into the realm of Data Engineering. 
 
-<!--
-**Horeb136/Horeb136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on enhancing my skills in data modeling and exploring new Deep Learning architectures.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning more about advanced data engineering techniques to strengthen my foundation in the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on projects that involve innovative data solutions and have a real-world impact.
+
+💬 Ask me about anything related to data science, machine learning, or my journey into data engineering!
+
+📫 How to reach me: You can connect with me on https://www.linkedin.com/in/horeb-seidou/ or drop me an email at horebseidou136@gmail.com.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact:  I'm an avid fan of Mangas and Animes! 
