@@ -8,7 +8,7 @@
 
 💬 Ask me about anything related to data science, machine learning, or my journey into data engineering!
 
-📫 How to reach me: You can connect with me on https://www.linkedin.com/in/horeb-seidou/ or drop me an email at horebseidou136@gmail.com.
+📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/horeb-seidou/) or drop me an email at horebseidou136@gmail.com.
 
 😄 Pronouns: He/Him
 
